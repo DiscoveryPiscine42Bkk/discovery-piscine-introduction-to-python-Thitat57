@@ -1,5 +1,5 @@
-#!/home/codespace/.python/current/bin/python3
 import sys
+#!/usr/bin/env python3
 
 text_input = input("Enter a number less than 25\n")
 try:

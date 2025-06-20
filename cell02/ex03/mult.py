@@ -1,5 +1,5 @@
-#!/home/codespace/.python/current/bin/python3
 import sys
+#!/usr/bin/env python3
 
 first_input = input("Enter the first number:\n")
 second_input = input("Enter the second number:\n")
