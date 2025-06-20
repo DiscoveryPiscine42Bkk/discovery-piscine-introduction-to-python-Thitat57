@@ -1,5 +1,5 @@
-import sys
 #!/usr/bin/env python3
+import sys
 
 user_input = input("Please tell me your age: ")
 try:

@@ -1,5 +1,5 @@
-import sys
 #!/usr/bin/env python3
+import sys
 
 num1 = input("Give me the first number: ")
 num2 = input("Give me the second number: ")

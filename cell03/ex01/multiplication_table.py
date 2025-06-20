@@ -1,5 +1,5 @@
-import sys
 #!/usr/bin/env python3
+import sys
 
 text_input = input("Enter a number\n")
 try:
